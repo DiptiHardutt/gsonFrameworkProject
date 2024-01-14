@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: test.LoginTest
+Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.134 s - in test.LoginTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.569 s - in TestSuite
